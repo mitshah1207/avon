@@ -1,6 +1,6 @@
 # Avon
 
-[toc]
+{:toc}
 
 ## Daily routine
 
