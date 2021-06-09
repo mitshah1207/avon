@@ -1,2 +1,2 @@
-# avon_the_dog
-my first github repo
+# Avon
+An information page on Avon the dog. 
