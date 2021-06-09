@@ -1,5 +1,3 @@
-# Avon
-
 # Contents
 {:.no_toc}
 
@@ -7,7 +5,6 @@
 {:toc}
 
 ## Daily routine
-
 - Wake up ~7-8am
 - Breakfast 8am. See 'Feeding' section
 - Walk (1-2hrs) starting anytime between 8-10am.
@@ -17,11 +14,11 @@
 - Sleeps at ~11pm inside crate.
 
 ## Medications
-
-- Calming tablets (tryptophan based) with breakfast and dinner hidden in peanut butter or banana bit.
+Hidden in peanut butter/banana bits
+- Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner 
+- Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
 
 ## Feeding
-
 - Twice per day (8am and 6pm), "Essential Foods", 100g each time. All food is grain-free, without meat derivatives
 - Feeding of meals is through hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
   - ALTERNATIVE 1: feed meal through Kong wobbler
@@ -82,15 +79,7 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 | Whining AND  scraping at door          | Toilet                                                       |
 | Barking                                | If more than twice, remove from trigger into neutral space (e.g. bathroom) with lifting. Calm down then let out. Never raise voice. |
 
-## Contact details:
-
-### Owners
-
-Mit Shah 07749990890
-
-Katya Kazantseva 07759864503
-
-### Vet
+## Vet
 
 Goddard Veterinary Group Putney
 
