@@ -54,10 +54,10 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 
 ## Challenges indoors
 
-Very noise sensitive to the following:
+**Very noise sensitive to the following:**
 - Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Very stressful for him, so far nothing has worked. May need light sedatives when predictable.
 
-Getting better with the following noises:
+**Getting better with the following noises:**
 - Plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
