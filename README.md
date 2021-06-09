@@ -19,23 +19,27 @@ Hidden in peanut butter/banana bits
 - Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
 
 ## Feeding
+**Main meals:**
 - Twice per day (8am and 6pm), "Essential Foods", 100g each time. All food is grain-free, without meat derivatives
-- Feeding of meals is through hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
-  - ALTERNATIVE 1: feed meal through Kong wobbler
-  - ALTERNATIVE 2: feed meal through structured walk 
-  - ALTERNATIVE 3: rarely give it for 'free' in a bowl, and is reserved if has had a particularly stressful day recently, or on occasion to give him a break. He will eat this meal within one minute if this method is used.
-- **Treats** (NB: walk-specific treats must not be used in the home as treats):
+- OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
+- OPTION 2: feed meal through Kong wobbler
+- OPTION 3: feed meal through structured walk 
+- OPTION 4: rarely give it for 'free' in a bowl, and is reserved if has had a particularly stressful day recently, or on occasion to give him a break. He will eat this meal within one minute if this method is used.
+
+**Treats** (NB: walk-specific treats must not be used in the home as treats):
   - Home - carrot cube chunks (too much causes diarrhoea), kibble, radishes, banana, peanut butter
   - On walks - kibble, higher value meat pate or cheese
-- **Long lasting chews** - enjoys a selection of pigs ears, feet, lamb legs etc. He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. Can take 30-60 minutes to get through and will calm down. One per day as required.
+
+**Long lasting chews** 
+- enjoys a selection of pigs ears, feet, lamb legs etc.
+- He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
+- Can take 30-60 minutes to get through and will calm down. One per day as required.
 
 ## Toilet
-
 - Usually goes twice per day and can last 12 hours comfortably without problem. Well toilet trained.
 - In desperate scenarios (has happened when unwell once) will whine AND go to the door with scraping at the door
 
 ## Play
-
 - Likes to tug with rope toy, and other sturdy items (e.g. mop head)
 - Likes to chase plastic bags, balls, and other fast moving objects 
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
@@ -50,13 +54,13 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 
 ## Challenges indoors
 
-- Noise sensitive. 
+Very noise sensitive to the following:
+- Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Very stressful for him, so far nothing has worked. May need light sedatives when predictable.
 
-  - Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Very stressful for him, so far nothing has worked. May need light sedatives when predictable.
-  - Sensitive to plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
-  - Sometimes sensitive to other dogs barking outdoors but fairly rare. If hears dog, same as above.
-- Postman
-  - Doesn't like postman and sometimes whines --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
+Getting better with the following noises:
+- Plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
+- Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
+- Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
 
 ## Not allowed to:
 
