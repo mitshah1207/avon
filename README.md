@@ -33,7 +33,7 @@ Hidden in peanut butter/banana bits
 **Long lasting chews** 
 - enjoys a selection of pigs ears, feet, lamb legs etc.
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
-- Can take 30-60 minutes to get through and will calm down. One per day as required.
+- Can take 30-60 minutes to get through and will calm down. **One per day as required.**
 
 ## Toilet
 - Usually goes twice per day and can last 12 hours comfortably without problem. Well toilet trained.
@@ -46,7 +46,7 @@ Hidden in peanut butter/banana bits
 
 ## Sleep 
 
-Sleeps most of the day and at night sleeps in the crate (shut), same hours as us.
+Sleeps most of the day and at night sleeps in the crate (shut), same hours as us. If he sleeps during the day - that's great!
 
 ## Capturing good behaviour
 
@@ -62,17 +62,16 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
 
-## Not allowed to:
-
-- **Bark** more than 1-2 times without consequence. See troubleshooting.
-- **Get on the window sill**. Used to look out and bark at dogs. 
-- **Steal food.** If food dropped whilst preparing in kitchen, has been trained to look at you and only proceed to eating if you say: 'yes get it, good boy'
-
 ## Negative commands:
-
+Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog.
 - A gentle 'no' to discourage a bad behaviour - **"uh-uh"**
 - A firm 'no' if he does something seriously bad - **"NO."** in a sharp and assertive manner.
 - **"Get off"** if somewhere he should not be.
+
+## Not allowed to:
+- **Bark** more than 1-2 times without consequence. See troubleshooting.
+- **Get on the window sill**. Used to look out and bark at dogs. 
+- **Steal food.** If food dropped whilst preparing in kitchen, has been trained to look at you and only proceed to eating if you say: 'yes get it, good boy'
 
 ## Troubleshooting:
 
