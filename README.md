@@ -60,6 +60,7 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 **Getting better with the following noises:**
 - Plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
+- Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
 
 ## Negative commands:
