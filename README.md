@@ -73,12 +73,12 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 - Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command 'heel' if he's by our side and not pulling - he will be ok in quieter roads
 - Triggers outside include bigger dogs / confrontational dogs (in which case we say "Look at that dog", he should look, turn back and we give a treat) or cycles ("Look at that cycle + treat), all the while trying to keep on moving not staying still.
 - In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
-(1) He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
-(2) He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes!
-(3) Used to be very hard to wrap up the play session and get him home (food never worked)
-(4) Avon doesn't like other dogs coming up to him. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. We use a **three second rule** with dogs. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
+    - (1) He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
+    - (2) He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes!
+    - (3) Used to be very hard to wrap up the play session and get him home (food never worked)
+    - (4) Avon doesn't like other dogs coming up to him. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. We use a **three second rule** with dogs. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 - Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use it. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
-
+    
 ## Not allowed to:
 - **Bark** more than 1-2 times without consequence. See troubleshooting.
 - **Get on the window sill**. Used to look out and bark at dogs. 
