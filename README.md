@@ -48,18 +48,14 @@ Hidden in peanut butter/banana bits
 
 Sleeps most of the day and at night sleeps in the crate (shut), same hours as us. If he sleeps during the day - that's great!
 
-## Capturing good behaviour
-
-If noticed that he is lying down calmly --> random treat + "good settle"
-
 ## Challenges indoors
 
 **Very noise sensitive to the following:**
 - Thunder and fireworks are the absolute worst thing for him and make him run around and bark.
 - Currently working on saying "thunder" when it occurs, and throwing treats down 
-- 
+
 **Getting better with the following noises:**
-- Plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
+- Plane noises. If nervous and hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
