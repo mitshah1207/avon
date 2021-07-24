@@ -55,8 +55,9 @@ If noticed that he is lying down calmly --> random treat + "good settle"
 ## Challenges indoors
 
 **Very noise sensitive to the following:**
-- Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Very stressful for him, so far nothing has worked. May need light sedatives when predictable.
-
+- Thunder and fireworks are the absolute worst thing for him and make him run around and bark.
+- Currently working on saying "thunder" when it occurs, and throwing treats down 
+- 
 **Getting better with the following noises:**
 - Plane noises. Working on deconditioning. If hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
@@ -70,8 +71,9 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 - **"Get off"** if somewhere he should not be.
 
 ## Walking and outdoors
-- Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command 'heel' if he's by our side and not pulling - he will be ok in quieter roads
-- Triggers outside include bigger dogs / confrontational dogs (in which case we say "Look at that dog", he should look, turn back and we give a treat) or cycles ("Look at that cycle + treat), all the while trying to keep on moving not staying still.
+- Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
+- Triggers outside include bigger dogs / confrontational dogs (in which case we say "Look at that dog", he should look, turn back and we give a treat) or cycles ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
+
 - In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
     - (1) He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
     - (2) He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes!
@@ -92,6 +94,31 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 | Sudden whine indoors                   | Has heard something outside that has unsettled him. Reassure. If persists place in crate, with kindness + not as punishment, food on entry to crate then regular food every 5 min (increasing to 15 min)  with 'good crate'. Let out once fully calm. Can sometimes sleep. |
 | Whining AND  scraping at door          | Toilet                                                       |
 | Barking                                | If more than twice, remove from trigger into neutral space (e.g. bathroom) with lifting. Calm down then let out. Never raise voice. |
+
+## Tricks and skills:
+
+| Trick | Description | Command / hand motion |
+|-------|-------------|-----------------------|
+|Sit|Sit|"Sit"| 
+|Down|Down|"Down"| 
+|Stand|Stands from down/sit|"Stand"+lure with your hand from nose back towards your body| 
+|Head down|Down with head on floor|Work in progress| 
+|Look at me|Look at your face|Say "look at me" and point to face| 
+|Look at that|Looks at something|"Look at that" + point to object, turns head back to receive treat| 
+|Emergency 'watch'|Look back at your face whilst walking|"Watch". Dog then looks at us, for a treat.                       |
+|Heel|Heeling as standard| "Heel"|
+|Left/right paw|Give you his left/right paw|"give me your X paw" + offer your hand| 
+|High five|Give you his left/right paw|"high five"| 
+|Touch right hand|Touch right hand with nose| "Touch!" + right palm presented. Avon then touches his nose to palm, then receives treat.|
+|Middle|Get into middle of your legs| "Middle" + left hand index finger from front of left knee round to back of left knee.|
+|Figure|Figure 8| One in the "Middle" position, say "figure" + right hand index finger around right knee, he should up up as started in the middle of legs|
+|Jump|jump into an item| "Jump" + guide to where you want him to jump onto|
+|Go to X|Goes to a room| In our flat knows: kitchen, study, bathroom, crate|
+|Spin clockwise|Spin clockwise| Arm in clockwise motion over his head  + "spin clock"|
+|Spin counter clockwise|Spin counter clockwise| Arm in anticlockwise motion over his head  + "spin clock"|
+|Circle you|Does a full circle of you whilst your stand|Whilst in the heel position, sat by side, say "round" and lure around with finger in a clockwise motion|
+|Recall command|To come to you from distance| "avon come" |
+|Leave it|Ignore item| "leave it" + "good boy" once left it|
 
 ## Vet
 
