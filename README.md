@@ -14,6 +14,10 @@
 - Sleeps at ~11pm inside crate.
 
 ## Medications
+Sept 2021 - current
+- Fluoexetine hidden in banana one per day.
+
+May - Sept 2021
 Hidden in peanut butter/banana bits
 - Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner 
 - Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
