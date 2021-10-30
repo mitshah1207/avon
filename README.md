@@ -70,15 +70,20 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 - **"Get off"** if somewhere he should not be.
 
 ## Walking and outdoors
-- Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
-- If walking outdoors, the ideal scenario is to minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
-- Triggers outside include **bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) or **bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
+Triggers outside include **bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) or **bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
 
+**Walking on residential roads**
+- Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
+
+**Walking outdoors**
+- If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
+
+**Playing outdoors**
 - In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
     - (1) He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
-    - (2) He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes!
+    - (2) He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved!
     - (3) Used to be very hard to wrap up the play session and get him home (food never worked)
-    - (4) Avon doesn't like other dogs coming up to him. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. We use a **three second rule** with dogs. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
+    - (4) **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 - Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use it. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
     
 ## Banned behaviours:
