@@ -49,8 +49,7 @@ Hidden in peanut butter/banana bits
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
 
 ## Sleep 
-
-Sleeps most of the day and at night sleeps in the crate (shut), same hours as us. If he sleeps during the day - that's great!
+- Sleeps most of the day and at night sleeps in the crate (shut), same hours as us. If he sleeps during the day - that's great!
 
 ## Challenges indoors
 
@@ -58,7 +57,7 @@ Sleeps most of the day and at night sleeps in the crate (shut), same hours as us
 - Thunder and fireworks are the absolute worst thing for him and make him run around and bark.
 - Currently working on saying "thunder" when it occurs, and throwing treats down 
 
-**Getting better with the following noises:**
+**Getting much better with the following noises:**
 - Plane noises. If nervous and hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
@@ -72,7 +71,8 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 
 ## Walking and outdoors
 - Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
-- Triggers outside include bigger dogs / confrontational dogs (in which case we say "Look at that dog", he should look, turn back and we give a treat) or cycles ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
+- If walking outdoors, the ideal scenario is to minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
+- Triggers outside include **bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) or **bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
 
 - In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
     - (1) He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
@@ -81,7 +81,8 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
     - (4) Avon doesn't like other dogs coming up to him. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. We use a **three second rule** with dogs. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 - Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use it. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
     
-## Not allowed to:
+## Banned behaviours:
+Not allowed to...
 - **Bark** more than 1-2 times without consequence. See troubleshooting.
 - **Get on the window sill**. Used to look out and bark at dogs. 
 - **Steal food.** If food dropped whilst preparing in kitchen, has been trained to look at you and only proceed to eating if you say: 'yes get it, good boy'
@@ -119,6 +120,8 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
 |Circle you|Does a full circle of you whilst your stand|Whilst in the heel position, sat by side, say "round" and lure around with finger in a clockwise motion|
 |Recall command|To come to you from distance| "avon come" |
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
+|Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
+|Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
 
 ## Vet
 
