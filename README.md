@@ -54,42 +54,43 @@ Hidden in peanut butter/banana bits
 ## Challenges indoors
 
 **Very noise sensitive to the following:**
-- Thunder and fireworks are the absolute worst thing for him and make him run around and bark.
-- Currently working on saying "thunder" when it occurs, and throwing treats down 
+- Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Currently working on saying "thunder" when it occurs, and throwing treats down 
 
-**Getting much better with the following noises:**
+**Has got much better with the following noises:**
 - Plane noises. If nervous and hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
+
+## Challenges outdoors & walking outdoors
+Triggers outside include:
+(1) **Bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) 
+(2) **Bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still. Getting much better.
+
+**Walking on residential roads**
+- Would discourage from walking without explicit guidance, however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
+
+**Walking in green areas**
+- If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
+- In open spaces he is much calmer, and not triggered by things that upset him.
+
+**Playing outdoors**
+- In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
+  - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
+  - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved! He will chase the ball endlessly and is much more focussed on the play session. 
+  - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
+- Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use a long lead. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
+
+Playing style:
+- He enjoys running for the ball obsessively. His fetch is not 100% and he will tend to come back half the distance and drop it. He will want you to then come up there to then throw again.
+- We incorporate some obedience when playing outdoors. Before the next throw we may ask him to sit (finger moving up to the sky, with a "sit"), or spin counterclockwise, or do the "middle" trick - the reward for the behaviour being a throw and a chase.
+- He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. 
 
 ## Negative commands:
 Note: we generally use [positive reinforcement](https://www.humanesociety.org/resources/positive-reinforcement-training) approaches. We would try our very best not to resort to using the following negative commands, as much as possible, especially with this sensitive dog.
 - A gentle 'no' to discourage a bad behaviour - **"uh-uh"**
 - A firm 'no' if he does something seriously bad - **"NO."** in a sharp and assertive manner.
 - **"Get off"** if somewhere he should not be.
-
-## Walking and outdoors
-Triggers outside include **bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) or **bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still.
-
-**Walking on residential roads**
-- Would discourage from walking without explicit guidance however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
-
-**Walking outdoors**
-- If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
-
-**Playing outdoors**
-- In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
-  - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
-  - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved!
-  - Used to be very hard to wrap up the play session and get him home (food never worked)
-  - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
-- Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use it. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
-
-Playing style:
-- He enjoys running for the ball obsessively. His fetch is not 100% and he will tend to come back half the distance and drop it. He will want you to then come up there to then throw again.
-- We incorporate some obedience when playing outdoors. Before the next throw we may ask him to sit (finger moving up to the sky, with a "sit"), or spin counterclockwise, or do the "middle" trick - the reward for the behaviour being a throw and a chase.
-- He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. 
     
 ## Banned behaviours:
 Not allowed to...
