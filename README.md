@@ -6,21 +6,13 @@
 
 ## Daily routine
 - Wake up ~7-8am
-- Breakfast 8am. See 'Feeding' section
+- Tablet (1x fluoexetine, hidden in banana or dog-friendly peanut butter) 
+- Breakfast ~8am. See 'Feeding' section. May reserve 1/3 of the allocated breakfast to use as treats during the walk. 
 - Walk (1-2hrs) starting anytime between 8-10am.
 - Return home, play if in the mood (tug) then lie down and sleep
 - Dinner 6pm
-- Walk between 8-10pm
+- Walk between 9-11pm (the later the better so it's quieter - more nervous in the darkness)
 - Sleeps at ~11pm inside crate.
-
-## Medications
-Sept 2021 - current
-- Fluoexetine hidden in banana one per day.
-
-May - Sept 2021
-Hidden in peanut butter/banana bits
-- Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner 
-- Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
 
 ## Feeding
 **Main meals:**
@@ -35,7 +27,6 @@ Hidden in peanut butter/banana bits
   - On walks - kibble, higher value meat pate or cheese
 
 **Long lasting chews** 
-- enjoys a selection of pigs ears, feet, lamb legs etc.
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
 - Can take 30-60 minutes to get through and will calm down. **One per day as required.**
 
@@ -49,10 +40,9 @@ Hidden in peanut butter/banana bits
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
 
 ## Sleep 
-- Sleeps most of the day and at night sleeps in the crate (shut), same hours as us. If he sleeps during the day - that's great!
+- Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. Important that the doors are not shut in the room he is in, generally speaking especially at night. If he sleeps during the day - that's great!
 
 ## Challenges indoors
-
 **Very noise sensitive to the following:**
 - Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Currently working on saying "thunder" when it occurs, and throwing treats down 
 
@@ -64,7 +54,7 @@ Hidden in peanut butter/banana bits
 
 ## Challenges outdoors & walking outdoors
 Triggers outside include:
-(1) **Bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat) 
+(1) **Bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat). On walks, when on a short normal lead, he MUST NOT be allowed to sniff or go near other dogs. Keep maximal distance, crossing roads/changing direction where possible. 
 (2) **Bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still. Getting much better.
 
 **Walking on residential roads**
@@ -73,8 +63,9 @@ Triggers outside include:
 **Walking in green areas**
 - If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
 - In open spaces he is much calmer, and not triggered by things that upset him.
+- When on long lead, can sniff a dog for a maximum of 3seconds before we move on using "Avon come!" and tugging the lead and he will follow. Any longer and both dogs will end up fighting! 
 
-**Playing outdoors**
+**Playing in the park**
 - In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
   - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
   - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved! He will chase the ball endlessly and is much more focussed on the play session. 
@@ -94,7 +85,7 @@ Note: we generally use [positive reinforcement](https://www.humanesociety.org/re
     
 ## Banned behaviours:
 Not allowed to...
-- **Bark** more than 1-2 times without consequence. See troubleshooting.
+- **Bark** more than 1-2 times without consequence when inside. See troubleshooting.
 - **Get on the window sill**. Used to look out and bark at dogs. 
 - **Steal food.** If food dropped whilst preparing in kitchen, has been trained to look at you and only proceed to eating if you say: 'yes get it, good boy'
 
@@ -133,6 +124,14 @@ Not allowed to...
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
 |Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
 |Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
+
+## Medications
+Sept 2021 - current
+- Fluoexetine hidden in banana one per day.
+
+May - Sept 2021 (no longer takes)
+- Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner 
+- Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
 
 ## Vet
 
