@@ -7,12 +7,12 @@
 ## Daily routine
 - Wake up ~7-8am
 - Tablet (1x fluoexetine, hidden in banana or dog-friendly peanut butter) 
-- Breakfast ~8am. See 'Feeding' section. May reserve 1/3 of the allocated breakfast to use as treats during the walk. 
+- Breakfast ~8am. See 'Feeding' section. Occasionally reserve 1/3 of the allocated breakfast to use as treats during the walk. 
 - Walk (1-2hrs) starting anytime between 8-10am.
 - Return home, play if in the mood (tug) then lie down and sleep
 - Dinner 6pm
 - Walk between 9-11pm (the later the better so it's quieter - more nervous in the darkness)
-- Sleeps at ~11pm inside crate.
+- Sleeps at ~11pm in variable locations(!)
 
 ## Feeding
 **Main meals:**
@@ -20,7 +20,7 @@
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
 - OPTION 2: feed meal through Kong wobbler
 - OPTION 3: feed meal through structured walk 
-- OPTION 4: rarely give it for 'free' in a bowl, and is reserved if has had a particularly stressful day recently, or on occasion to give him a break. He will eat this meal within one minute if this method is used.
+- OPTION 4: give it for 'free' in a bowl, and is reserved if has had a particularly stressful day recently, or on occasion to give him a break. He will eat this meal within one minute if this method is used.
 
 **Treats** (NB: walk-specific treats must not be used in the home as treats):
   - Home - carrot cube chunks (too much causes diarrhoea), kibble, radishes, banana, peanut butter
@@ -35,8 +35,8 @@
 - In desperate scenarios (has happened when unwell once) will whine AND go to the door with scraping at the door
 
 ## Play
-- Likes to tug with rope toy, and other sturdy items (e.g. mop head)
-- Likes to chase plastic bags, balls, and other fast moving objects 
+- Likes to tug with rope toy
+- Likes to chase plastic bags, balls, and other fast moving objects around the home, then takes it into a corner waiting for you to re-engage.
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
 
 ## Sleep 
@@ -52,7 +52,7 @@
 - Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
 - Postman --> once post is through the door, ask him to 'fetch the post', he does it for a treat. 
 
-## Challenges outdoors & walking outdoors
+## Challenges outdoors
 Triggers outside include:
 (1) **Bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat). On walks, when on a short normal lead, he MUST NOT be allowed to sniff or go near other dogs. Keep maximal distance, crossing roads/changing direction where possible. 
 (2) **Bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still. Getting much better.
@@ -62,11 +62,11 @@ Triggers outside include:
 
 **Walking in green areas**
 - If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
-- In open spaces he is much calmer, and not triggered by things that upset him.
+- In open spaces he is much calmer, and not triggered by things that upset him as he feels free and not restrained by a short lead. 
 - When on long lead, can sniff a dog for a maximum of 3seconds before we move on using "Avon come!" and tugging the lead and he will follow. Any longer and both dogs will end up fighting! 
 
 **Playing in the park**
-- In the park, we use the green harness, to which we attach the 30metre lead. This is due to a few issues. 
+- In the park, we use the green harness, to which we attach the 5-10metre lead. This is due to a few issues. 
   - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
   - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved! He will chase the ball endlessly and is much more focussed on the play session. 
   - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
