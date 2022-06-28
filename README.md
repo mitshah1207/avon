@@ -7,46 +7,46 @@
 ## Daily routine
 - Wake up ~7-8am
 - Tablet (1x fluoexetine, hidden in banana or dog-friendly peanut butter) 
-- Breakfast ~8am. See 'Feeding' section. Occasionally reserve 1/3 of the allocated breakfast to use as treats during the walk. 
-- Walk (1-2hrs) starting anytime between 8-10am.
-- Return home, play if in the mood (tug) then lie down and sleep
+- Breakfast ~8am, may occasionally reserve 1/3 of the allocated breakfast to use as treats during the walk. 
+- Walk (approx. 1 - 1.5 hrs) starting anytime between 8-10am. Return home, play if in the mood (tug) then lie down and sleep
 - Dinner 6pm
-- Walk between 9-11pm (the later the better so it's quieter - more nervous in the darkness)
-- Sleeps at ~11pm in variable locations(!)
+- Walk between 9-11pm ... the later the better so it's quieter as is generally more nervous in the dark.
+- Sleeps at ~11pm in variable locations (!)
 
 ## Feeding
 **Main meals:**
 - Twice per day (8am and 6pm), "Essential Foods", 100g each time. All food is grain-free, without meat derivatives
 - OPTION 1: hand feeding (giving him kibble piece by piece whilst stroking him and being affectionate) and part trick training. Important not to trick train too much as can stress out. We aim to do 3-5 minutes of trick training, starting and ending with an easy trick (e.g. sit, down, high five).
-- OPTION 2: feed meal through Kong wobbler
-- OPTION 3: feed meal through structured walk 
-- OPTION 4: give it for 'free' in a bowl, and is reserved if has had a particularly stressful day recently, or on occasion to give him a break. He will eat this meal within one minute if this method is used.
+- OPTION 2: feed meal through Kong wobbler, very commonly use at home. 
+- OPTION 3: feed meal through structured walk if out early enough to coincide with breakfast time.  
+- OPTION 4: give it for 'free' in a bowl. Useful if he has had a particularly stressful day recently. The downside is he will eat this meal within one minute if this method is used!
 
-**Treats** (NB: walk-specific treats must not be used in the home as treats):
-  - Home - carrot cube chunks (too much causes diarrhoea), kibble, radishes, banana, peanut butter
-  - On walks - kibble, higher value meat pate or cheese
+**Treats**:
+  - Home - carrot cube chunks, kibble, radishes, banana, peanut butter
+  - On walks - kibble, once this runs out then meat pate or cheese
 
 **Long lasting chews** 
 - He needs supervision whilst chewing in case he chokes (never happened before) and access to water afterwards. 
 - Can take 30-60 minutes to get through and will calm down. **One per day as required.**
 
 ## Toilet
-- Usually goes twice per day and can last 12 hours comfortably without problem. Well toilet trained.
+- Usually goes twice per day and can last 10-12 hours comfortably without problem. Well toilet trained.
 - In desperate scenarios (has happened when unwell once) will whine AND go to the door with scraping at the door
 
 ## Play
-- Likes to tug with rope toy
+- Likes to tug strongly with rope toy
 - Likes to chase plastic bags, balls, and other fast moving objects around the home, then takes it into a corner waiting for you to re-engage.
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
 
 ## Sleep 
-- Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. Important that the doors are not shut in the room he is in, generally speaking especially at night. If he sleeps during the day - that's great!
+- Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. 
+- N.B. Important that the doors are not shut in the room he is in, generally speaking especially at night. 
 
-## Challenges indoors
+## Challenges whilst indoors
 **Very noise sensitive to the following:**
 - Thunder and fireworks are the absolute worst thing for him and make him run around and bark. Currently working on saying "thunder" when it occurs, and throwing treats down 
 
-**Has got much better with the following noises:**
+**The following are no longer a problem:**
 - Plane noises. If nervous and hears plane  --> "good plane" --> looks at us & gets treat
 - Other dogs barking outdoors but fairly rare. If hears dog  --> "good dog" --> looks at us & gets treat
 - Fixation on outdoors e.g. out of the window --> "good alert" --> looks to us for treat.
@@ -54,19 +54,23 @@
 
 ## Challenges outdoors
 Triggers outside include:
-(1) **Bigger dogs / confrontational dogs** (in which case we say "Look at that dog", he should look, turn back and we give a treat). On walks, when on a short normal lead, he MUST NOT be allowed to sniff or go near other dogs. Keep maximal distance, crossing roads/changing direction where possible. 
-(2) **Bicycles** ("Look at that cycle" + treat), all the while trying to keep on moving not staying still. Getting much better.
+- (1) **Bigger dogs / confrontational dogs** --> Calmly say "Look at that dog", he should look, enthusiastically then say "yes!", he turns back to accept a treat. On walks, when on a short normal lead, he MUST NOT be allowed to sniff or go near other dogs. Keep maximal distance, crossing roads/changing direction where possible. 
+- (2) **Bicycles** --> Calmly say "Look at that cycle", he should look, enthusiastically then say "yes!", he turns back to accept a treat. 
 
+## Guide to the outdoors
 **Walking on residential roads**
-- Would discourage from walking without explicit guidance, however we use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA) keeping the lead very short and using the command **'heel'** if he's by our side and not pulling - he will be ok in quieter roads. To give him the full length of the lead when he's going to the toilet or wanting to sniff around we use the command **'go sniff'**. 
+- Would discourage from walking without explicit guidance.
+- We use the [canny collar](https://www.youtube.com/watch?v=e8KTcjYeaOA), walk him on our left, and keep the lead short.  
+- First mode of walking is using the command **'heel'**, he should be by or near our side and not pulling. 
+- The second mode of walking on residential roads is to give him the full length of the lead when he's going to the toilet or wanting to sniff, we use the command **'go sniff!'** (majority of the time we use this manner of walking). 
 
-**Walking in green areas**
-- If walking outdoors, the ideal scenario is to do this in a relatively quiet green space (e.g. Wimbledon Common, Richmond park). Ideally minimise walking on normal roads and going from a car directly to a green space, and then walking on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. 
+**Walking in green areas: much easier!**
 - In open spaces he is much calmer, and not triggered by things that upset him as he feels free and not restrained by a short lead. 
+- We use relatively quiet green spaces (e.g. Wimbledon Common, Richmond park). We walk him on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. He tends not to pull.
 - When on long lead, can sniff a dog for a maximum of 3seconds before we move on using "Avon come!" and tugging the lead and he will follow. Any longer and both dogs will end up fighting! 
 
-**Playing in the park**
-- In the park, we use the green harness, to which we attach the 5-10metre lead. This is due to a few issues. 
+**Playing in the park: avoid unless we have given instruction**
+- In the park, we use the green harness, to which we attach the 5 metre lead.  
   - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
   - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved! He will chase the ball endlessly and is much more focussed on the play session. 
   - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
