@@ -40,7 +40,9 @@
 
 ## Sleep 
 - Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. 
-- N.B. Important that the doors are not shut in the room he is in, generally speaking especially at night. 
+```{tip}
+N.B. Important that the doors are not shut in the room he is in, generally speaking especially at night. 
+```
 
 ## Challenges whilst indoors
 **Very noise sensitive to the following:**
