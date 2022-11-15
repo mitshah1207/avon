@@ -131,11 +131,9 @@ Not allowed to...
 |Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
 
 ## Medications
-Sept 2021 - current
-Fluoexetine hidden in banana. 20mg morning, 10mg evening.
+Sept 2021 - current: **Fluoexetine** hidden in banana or dog safe peanut butter. 20mg morning, 10mg evening.
 
-May - Sept 2021 (no longer takes)
-Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner. Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner. 
+May - Sept 2021 (no longer takes): Calming tablets (tryptophan based) 1 tablet with breakfast + 1 tablet at dinner. Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner. 
 
 ## Vet
 
