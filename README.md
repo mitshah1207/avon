@@ -39,10 +39,8 @@
 - Note may need to be 'activated' - two people encouragingly play with each other and invite him to join to get him involved.
 
 ## Sleep 
-- Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. 
-```{tip}
+Sleeps most of the day and at night sleeps in our bed/the sofa/his crate. 
 N.B. Important that the doors are not shut in the room he is in, generally speaking especially at night. 
-```
 
 ## Challenges whilst indoors
 **Very noise sensitive to the following:**
@@ -67,19 +65,19 @@ Triggers outside include:
 - The second mode of walking on residential roads is to give him the full length of the lead when he's going to the toilet or wanting to sniff, we use the command **'go sniff!'** (majority of the time we use this manner of walking). 
 
 **Walking in green areas: much easier!**
-- In open spaces he is much calmer, and not triggered by things that upset him as he feels free and not restrained by a short lead. 
+- In open spaces he is MUCH calmer, and not triggered by things that upset him as he feels free and not restrained by a short lead. 
 - We use relatively quiet green spaces (e.g. Wimbledon Common, Richmond park). We walk him on the yellow 5m lead. We would tend to let him guide and explore in the world, and reward him each time he looks back at us, with a "good boy" or even a treat. He tends not to pull.
-- When on long lead, can sniff a dog for a maximum of 3seconds before we move on using "Avon come!" and tugging the lead and he will follow. Any longer and both dogs will end up fighting! 
+- When on long lead, can sniff a dog for a maximum of 3seconds before we move on using "Avon come!" and tugging the lead and he will follow. Any longer and both dogs may end up fighting so we just move on. Getting much more at ease with others. 
 
 **Playing in the park: avoid unless we have given instruction**
 - In the park, we use the green harness, to which we attach the 5 metre lead.  
   - He does not yet have 100% recall (i.e. not guaranteed to come back if called) 
   - He used to play chase the ball for 2-3 throws then run off in the distance to chase squirrels for the next 30-60 minutes - now resolved! He will chase the ball endlessly and is much more focussed on the play session. 
-  - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get into a fight. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
+  - **Avon doesn't like other dogs coming up to him**. He does not want to meet dogs and wants to only play with you and chase the ball. If a large dog comes up this can feel intimidating for him, hence he may become defensive and get stressed. **We use a three second rule with dogs**. He can sniff for 3s then we say "Avon come" (the recall phrase) whilst being prepared to tug towards us on the long lead to remove him from that situation. 
 - Recommend watching [this](https://www.youtube.com/watch?v=FNbGCIXdNhg) video to learn how to generally use a long lead. We throw all of it on the ground, and throw the ball a fair distance, but need to be prepared to potentially run up to the end in case we need to intervene (e.g. running away - rare, dog running towards him - more common)
 
 Playing style:
-- He enjoys running for the ball obsessively. His fetch is not 100% and he will tend to come back half the distance and drop it. He will want you to then come up there to then throw again.
+- He enjoys running for the ball obsessively. His fetch is not 100% and he will tend to come back half the distance and drop it. He will want you to then come up there to then throw again. If he's dropped the ball and you want him to come to you, provided you are not TOO far, you can try saying 'touch' whilst holding your palm out by your knee, and he will run to touch the palm which is excellent behaviour and will accordingly by rewarded by you going to the ball and chucking it again!
 - We incorporate some obedience when playing outdoors. Before the next throw we may ask him to sit (finger moving up to the sky, with a "sit"), or spin counterclockwise, or do the "middle" trick - the reward for the behaviour being a throw and a chase.
 - He can play in the park forever but we limit this to 1 hour at a max. He needs water in a bowl during longer play sessions. 
 
@@ -129,21 +127,18 @@ Not allowed to...
 |Recall command|To come to you from distance| "avon come" |
 |Leave it|Ignore item| "leave it" + "good boy" once left it|
 |Round|Makes one round loop of you| Start in heel position next to you on your left. Signal to go round you clockwise and finish in same heel position, say "round"|
+|Back round|Makes one round loop of you backwards| Start in heel position next to you on your left. Signal to go round you anticlockwise (i.e. his bottom first)and finish in same heel position, say "back round"|
 |Come by|Goes around distant object in a clockwise manner and returns to you| Start in heel position, signal with a swoop and say "come by" round pillar, or object, and he will go round it and come to you.|
 
 ## Medications
 Sept 2021 - current
-- Fluoexetine hidden in banana one per day.
+Fluoexetine hidden in banana. 20mg morning, 10mg evening.
 
 May - Sept 2021 (no longer takes)
-- Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner 
-- Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner
+Calming tablets, tryptophan based: 1 tablet with breakfast + 1 tablet at dinner. Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner. 
 
 ## Vet
 
 Goddard Veterinary Group Putney
-
 153 Lower Richmond Rd, London SW15 1EZ
-
 020 8788 8224
-
