@@ -137,10 +137,14 @@ May - Sept 2021 (no longer takes): Calming tablets (tryptophan based) 1 tablet w
 
 ## SUMMER 2023
 
-### Medication
-Three times a day. Have provided instructions in the small purple box (8pm, 8am are the doses relevant to you). When we get to you, I'll demonstrate how to give the medication. Useful video: https://www.youtube.com/watch?v=ZN5Iil1hCAg After the medication, praise and give treats. Typically get him to sit, have treats by my side so he knows they are coming, deliver the meds then praise with treats.
+### Daily routine
+- We walk him 3-4 times a day now because his medication makes him thirstier and also needing to urinate more frequently. We typically go at 8am, 2pm, 6pm, 10pm (before he goes to bed).
+- He pees for about 2-2.5 minutes in total at each outing
+- Keep an ear out just in case he asks to go once more (he'll scratch the door), but generally if he gets the 3-4 walks, he never needs to go overnight.
 
 ### Food
+Ensure water bowl is full at all times given the above.
+
 Food (all boxes are labeled; everything to be kept in the fridge):
 - First dinner (6pm)
 - Second dinner (as late as possible, before the last toilet break)
@@ -149,10 +153,20 @@ Food (all boxes are labeled; everything to be kept in the fridge):
 
 Give each meal in the feeding metal bowl. Fluff it up a bit with the fork so it's not stuck to the sides too much. Keep the bowl out with any leftovers, he'll likely finish them later. Sometimes need to hand feed him small amounts to get him to eat (rare).
 
-### Walking
-- We walk him 3-4 times a day now because his medication makes him thirstier and also needing to urinate more frequently. We typically go at 8am, 2pm, 6pm, 10pm (before he goes to bed).
-- He pees for about 2-2.5 minutes in total at each outing
-- Keep an ear out just in case he asks to go once more (he'll scratch the door), but generally if he gets the 3-4 walks, he never needs to go overnight.
+Worst case scenario - if doesn't want meal, leave it out or try handfeeding it. If more than one meal missed give him rice and chicken. 
+
+### Medication
+Three times a day. Have provided instructions in the small purple box (8pm, 8am are the doses relevant to you). When we get to you, I'll demonstrate how to give the medication. Useful video: https://www.youtube.com/watch?v=ZN5Iil1hCAg After the medication, praise and give treats. Typically get him to sit, have treats by my side so he knows they are coming, deliver the meds then praise with treats.
+
+### General
+- Bit more lethargic than usual when in the home and out on walks. However we still take him on walks to the Heath for over one hour, and to the park to play with the ball.
+- He can sometimes pant out of the blue. This is a side effect of one of the meds (steroid). If panting and pacing around, it once meant he needed to pee. 
+- Still has appetite, and is eating 3 meals (or most of each of the 3 meals) each day. He particularly enjoys eating the rice + chicken meal. 
+
+### In case of emergency
+- If Avon suddenly deteriorates he will need to be taken to the vet, likely to be euthanised given the prognosis of his underlying diagnosis. 
+- The 24 hr vet is Stone Lion in Wimbledon, and in-hours it is the Godard vet in Putney (020 8788 8224) - both know him well. 
+- To take him you can either take Uber (click the pet option) or use Steve (07961952379 or 07940360936). Obviously we will reimburse you in the unlikely event you need to do this.
 
 ## Vet
 
