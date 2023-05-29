@@ -135,6 +135,25 @@ Sept 2021 - current: **Fluoexetine** hidden in banana or dog safe peanut butter.
 
 May - Sept 2021 (no longer takes): Calming tablets (tryptophan based) 1 tablet with breakfast + 1 tablet at dinner. Valerian Root tablets: 2 tablets at breakfast + 2 tablets at dinner. 
 
+## SUMMER 2023
+
+### Medication
+Three times a day. Have provided instructions in the small purple box (8pm, 8am are the doses relevant to you). When we get to you, I'll demonstrate how to give the medication. Useful video: https://www.youtube.com/watch?v=ZN5Iil1hCAg After the medication, praise and give treats. Typically get him to sit, have treats by my side so he knows they are coming, deliver the meds then praise with treats.
+
+### Food
+Food (all boxes are labeled; everything to be kept in the fridge):
+- First dinner (6pm)
+- Second dinner (as late as possible, before the last toilet break)
+- Breakfast (any time before the 1st walk)
+- Treats: as required 
+
+Give each meal in the feeding metal bowl. Fluff it up a bit with the fork so it's not stuck to the sides too much. Keep the bowl out with any leftovers, he'll likely finish them later. Sometimes need to hand feed him small amounts to get him to eat (rare).
+
+### Walking
+- We walk him 3-4 times a day now because his medication makes him thirstier and also needing to urinate more frequently. We typically go at 8am, 2pm, 6pm, 10pm (before he goes to bed).
+- He pees for about 2-2.5 minutes in total at each outing
+- Keep an ear out just in case he asks to go once more (he'll scratch the door), but generally if he gets the 3-4 walks, he never needs to go overnight.
+
 ## Vet
 
 Goddard Veterinary Group Putney
