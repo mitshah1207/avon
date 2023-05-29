@@ -138,7 +138,7 @@ May - Sept 2021 (no longer takes): Calming tablets (tryptophan based) 1 tablet w
 ## SUMMER 2023
 
 ### Daily routine
-- We walk him 3-4 times a day now because his medication makes him thirstier and also needing to urinate more frequently. We typically go at 8am, 2pm, 6pm, 10pm (before he goes to bed).
+- We walk him 3-4 times a day now because his medication makes him thirstier and also needing to urinate more frequently. We typically go at (rough times): 8am, 2pm, 6pm, 10pm (before he goes to bed so that he doesn't need to go overnight).
 - He pees for about 2-2.5 minutes in total at each outing
 - Keep an ear out just in case he asks to go once more (he'll scratch the door), but generally if he gets the 3-4 walks, he never needs to go overnight.
 
